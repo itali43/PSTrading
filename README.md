@@ -42,7 +42,7 @@ Once you log in / sign up you get to the main page.  Note the pleasant looking g
 ## Buy
 Note, once you press buy and change to a Limit Order, a limit price textfield appears, and an option to Kill all Limit Orders as well.  It asks to confirm, as all trading decisions on PSTrading request, and then can cancel your whole limit book.
 
-![Buy Trading](https://github.com/itali43/PSTrading/blob/master/buyTrade.png "Buy Trade")
+![Buy Trading](https://github.com/itali43/PSTrading/blob/master/buyTrading.png "Buy Trade")
 
 
 ## Sell
@@ -54,7 +54,7 @@ Colors change and limit price textfield disappears too, as I clicked back to Mar
 ## Credentials
 Good news, I blacked out my API keys twice over, so that you can't use them for any nefarious purposes, hooray!  Basically you can generate these when logged into your GDAX account, and then type them into here.  Every time you leave the page your API keys are saved to the device's Keychain.  This keeps them secure on the device as well as completely localized-- but still allowing for easy use of the app (without having to enter them every login).
 
-![creds](https://github.com/itali43/PSTrading/blob/master/creds.png "creds")
+![creds](https://github.com/itali43/PSTrading/blob/master/cred.png "creds")
 
 
 # Resolution:  Purple Swan LAMBOFolio
