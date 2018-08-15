@@ -16,7 +16,7 @@ the institution in compliance with its Terms & Conditions.
 ~~~
 * <sub><sup>For More Light Reading, See Source: https://developer.apple.com/app-store/review/guidelines/#acceptable</sup></sub>
 
-<span style="font-size:larger;"><center>❤️ -> 💔</center></span>
+<p style="text-align: center;">❤️ -> 💔</p>
 
 So, it seems my exciting new GDAX Trading Application will forever be only useful to me.  No public release to the App Store. But enough story, here's what it looked like:
 
