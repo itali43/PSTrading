@@ -42,7 +42,7 @@ Once you log in / sign up you get to the main page.  Note the pleasant looking g
 ## Buy
 Note, once you press buy and change to a Limit Order, a limit price textfield appears, and an option to Kill all Limit Orders as well.  It asks to confirm, as all trading decisions on PSTrading request, and then can cancel your whole limit book.
 
-![Buy Trading](https://github.com/itali43/PSTrading/blob/master/buyTrading.png "Buy Trade")
+![Buy Trading](https://github.com/itali43/PSTrading/blob/master/buyTrade.png "Buy Trade")
 
 
 ## Sell
