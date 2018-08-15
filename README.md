@@ -30,13 +30,13 @@ The Log in is actually one of the coolest parts of the feature set.  It's decent
 
 There's also a cool animation where the swan looks like it swims back to the left when you click the "< Trackers" button (trackers = price trackers).  It makes it look like it swims off the screen and back into the center of the Purple Swan Price Checker App.
 
-![login](https://github.com/itali43/PSTrading/blob/master/login.png "login")
+![login](https://github.com/itali43/PSTrading/blob/master/log-in.png "login")
 
 
 ## Start Trading!
 Once you log in / sign up you get to the main page.  Note the pleasant looking graph with multiple time horizons to peruse, the lock and key up top which is how you get to the credentials section, and the greyed out Execute button for no errant buy/sells upon first initiating the trading functionality.  
 
-![startTrade](https://github.com/itali43/PSTrading/blob/master/startTrading.png "StartTrade")
+![startTrade](https://github.com/itali43/PSTrading/blob/master/startTrade.png "StartTrade")
 
 
 ## Buy
@@ -48,7 +48,7 @@ Note, once you press buy and change to a Limit Order, a limit price textfield ap
 ## Sell
 Colors change and limit price textfield disappears too, as I clicked back to Market orders as well.
 
-![sellTrade](https://github.com/itali43/PSTrading/blob/master/selltrading.png "Sell Trade")
+![sellTrade](https://github.com/itali43/PSTrading/blob/master/selltrade.png "Sell Trade")
 
 
 ## Credentials
@@ -62,7 +62,7 @@ Good news, I blacked out my API keys twice over, so that you can't use them for 
  After spending the after the App Store rejection day a bit sad, I decided to make something great to fill the feature hole I had in my production timeline, and two weeks later I posted the LAMBOFolio feature.  Far less serious than PSTrading, it makes Lamborghinis fall from the sky depending on how many bitcoin you tell it you have.  So just in case you wanted to splurge all of your crypto gains on Lambos, you know what it would look like.
  
  ## Raining Lambos (usefulness level: 💯)
- ![lambo](https://github.com/itali43/PSTrading/blob/master/rainingLambos.png "lambo")
+ ![lambo](https://github.com/itali43/PSTrading/blob/master/rainingLambo.png "lambo")
 
 
 I'd encourage you, dear reader, to check it out [here](http://swan.agrippa.tech)
