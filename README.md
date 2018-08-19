@@ -1,9 +1,9 @@
 # Purple Swan Trading App Story
-![icon](https://github.com/itali43/PSTrading/blob/master/PSIcon.png "icon")
+![icon](https://github.com/itali43/PSTrading/blob/master/PSIcon.png "icon")     ![preview](https://github.com/itali43/PSTrading/blob/master/preview.png "preview")
+### Or how I built a Mobile GDAX Trading application and didn't publish it.
 
-### Long Ago in a Galaxy Far Far Away, there was a dream-- and that dream was to be able to trade on GDAX on a mobile phone.  
-
-And this dream was built-- shoe-horned into any free time I had between jobs --so that I could finally panic buy, panic sell and just generally make sound and farsighted financial decisions about my cryptocurrency hodlings from my mobile phone.  And after many long evenings-- success!  An App had been formed.  And it worked.  It even had some easter eggs and professional design input built in!  
+#### Long Ago in a Galaxy Far Far Away, there was a dream-- 
+and that dream was to be able to trade on GDAX on a mobile phone.  And this dream was built-- shoe-horned into any free time I had between jobs --so that I could finally panic buy, panic sell and just generally make sound and farsighted financial decisions about my cryptocurrency hodlings from my mobile phone.  And after many long evenings-- success!  An App had been formed.  And it worked.  It even had some easter eggs and professional design input built in!  
 
 So time to publish it right?
 
