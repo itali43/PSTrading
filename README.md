@@ -28,11 +28,12 @@ Anyway, Enough Story.
 ## Login
 The Log in is actually one of the coolest parts of the feature set.  It's decentralized.  Nothing complicated, just that the login is specific to the device.  Purple Swan operates without it's own server (using only Fabric and the various exchange APIs for in/outgoing network traffic).  This was designed this was such that no one could touch your private keys except you.  The login, password and all of the three Private API keys (see credentials section) are stored on the digital keychain of your phone, for safe (and decentralized) keeping.
 
-There's also a cool animation where the swan looks like it swims back to the left when you click the "< Trackers" button (trackers = price trackers).  It makes it look like it swims off the screen and back into the center of the Purple Swan Price Checker App.
+There's also a cool animation where the swan looks like it swims back to the left when you click the "< Trackers" button (trackers = price trackers).  Demonstrated below via gif:
+
   ![loginAnimation](https://github.com/itali43/PSTrading/blob/master/logout.gif "LogInAnimation")
 
 And just in case you want to read the far too wordy explanation at the bottom: 
-> > And Trade Mobily. PS Username/Password are for convenience security so you don't need to enter your API keys every time you trade. They are stored on your phone's keychain and are accessible only locally by your own Purple Swan App instance. Only server ever touched is GDAX, everything else is stored locally! If you forget your password/username, just make a new one and re-enter your API Keys. Happy trading, and of course...  To The Moon! 🚀
+>> And Trade Mobily. PS Username/Password are for convenience security so you don't need to enter your API keys every time you trade. They are stored on your phone's keychain and are accessible only locally by your own Purple Swan App instance. Only server ever touched is GDAX, everything else is stored locally! If you forget your password/username, just make a new one and re-enter your API Keys. Happy trading, and of course...  To The Moon! 🚀
 
 
 ## Start Trading!
