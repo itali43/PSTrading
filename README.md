@@ -1,5 +1,5 @@
-# Purple Swan Trading App Story
 ![icon](https://github.com/itali43/PSTrading/blob/master/PSIcon.png "icon")     ![preview](https://github.com/itali43/PSTrading/blob/master/preview.png "preview")
+# Application Story + Showcase:  Purple Swan Trading 
 ### Or how I built a Mobile GDAX Trading application and didn't publish it.
 
 #### Long Ago in a Galaxy Far Far Away, there was a dream-- 
