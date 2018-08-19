@@ -32,7 +32,7 @@ There's also a cool animation where the swan looks like it swims back to the lef
 
   ![loginAnimation](https://github.com/itali43/PSTrading/blob/master/logout.gif "LogInAnimation")
 
-And just in case you want to read the far too wordy explanation at the bottom: 
+And just in case you want to read the _far too wordy_ explanation at the bottom sans gif: 
 > And Trade Mobily. PS Username/Password are for convenience security so you don't need to enter your API keys every time you trade. They are stored on your phone's keychain and are accessible only locally by your own Purple Swan App instance. Only server ever touched is GDAX, everything else is stored locally! If you forget your password/username, just make a new one and re-enter your API Keys. Happy trading, and of course...  To The Moon! 🚀
 
 
