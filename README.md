@@ -30,7 +30,7 @@ The Log in is actually one of the coolest parts of the feature set.  It's decent
 
 There's also a cool animation where the swan looks like it swims back to the left when you click the "< Trackers" button (trackers = price trackers).  It makes it look like it swims off the screen and back into the center of the Purple Swan Price Checker App.
 
-![login](https://github.com/itali43/PSTrading/blob/master/log-in.png "login")  ![loginAnimation](https://i.imgur.com/rOLyWGS.gifv "LogInAnimation")
+![login](https://github.com/itali43/PSTrading/blob/master/log-in.png "login")  ![loginAnimation](https://github.com/itali43/PSTrading/blob/master/logout.gifv "LogInAnimation")
 
 
 
