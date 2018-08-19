@@ -1,4 +1,6 @@
 ![icon](https://github.com/itali43/PSTrading/blob/master/PSIcon.png "icon")     ![preview](https://github.com/itali43/PSTrading/blob/master/preview.png "preview")
+<div style="text-align:center"><img src ="https://github.com/itali43/PSTrading/blob/master/PSIcon.png" /></div>
+
 # Application Story + Showcase:  Purple Swan Trading 
 ### Or how I built a Mobile GDAX Trading application and didn't publish it.
 
