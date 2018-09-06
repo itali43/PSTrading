@@ -9,7 +9,7 @@ So time to publish it right?
 
 But alas, it was not to be.
 
-Apple, in their infinite wisdom, decided that having financial institution's private keys in a third party app (even if that app was specifically designed to have no connection to any servers except said financial institutions!) was a no-go, see App Review Guideline 3.2.1(viii)*:
+Apple has decided that having financial institution's private keys in a third party app was a no-go, see App Review Guideline 3.2.1(viii)*:
 ~~~
 (viii) Apps used for financial trading, investing, or money management should come from 
 the financial institution performing such services or must use a public API offered by 
@@ -17,11 +17,13 @@ the institution in compliance with its Terms & Conditions.
 ~~~
 * <sub><sup>For More Light Reading, See Source: https://developer.apple.com/app-store/review/guidelines/#acceptable</sup></sub>
 
+This, if you think about it is quite responsible, even though I designed PSTrade to only touch Coinbase's servers, a less benevolent actor could quite easily use an application like this for dishonorable purposes.  
+
 ### ❤️ -> 💔
 
-So, it seems my exciting new GDAX Trading Application will forever be only useful to me.  No public release to the App Store. But enough story, here's what it looked like:
+So, no public release to the App Store for PSTrade, only private builds for crypto hedge funds.. 
 
-Anyway, Enough Story.
+Anyway, enough story, here's what it looked like:
 
 # Trading Feature Summary
 
@@ -73,6 +75,10 @@ I'd encourage you, dear reader, to check it out [here](http://swan.agrippa.tech)
 ## Conclusion
 The skills and experience I gained building out Purple Swan Trading were worth the efforts, despite the anti-climactic, mothball ending 🧐, but I would highly suggest one reads the App Review guidelines with a fine-toothed comb before embarking on too long a journey. 
 # 🌊🚢
+
+
+[//]: # (Shout out to https://ezgif.com/video-to-gif for allowing my screenshot to convert to a gif.)
+
 
 
 
